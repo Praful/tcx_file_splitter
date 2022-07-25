@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/ActivityExtension/v2 http://www.garmin.com/xmlschemas/ActivityExtensionv2.xsd http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd"><Activities><Activity Sport="Running">
+      <Id>2010-02-15T23:42:00Z</Id>
+      <Lap StartTime="2010-02-15T23:42:00Z">
+        <TotalTimeSeconds>3.2400000</TotalTimeSeconds>
+        <DistanceMeters>0.0000000</DistanceMeters>
+        <MaximumSpeed>0.7624412</MaximumSpeed>
+        <Calories>0</Calories>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+      </Lap>
+      <Lap StartTime="2010-02-15T23:42:11Z">
+        <TotalTimeSeconds>4.9200000</TotalTimeSeconds>
+        <DistanceMeters>2.3620715</DistanceMeters>
+        <MaximumSpeed>2.5807157</MaximumSpeed>
+        <Calories>0</Calories>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Forerunner305</Name>
+        <UnitId>1234567890</UnitId>
+        <ProductID>123</ProductID>
+        <Version>
+          <VersionMajor>2</VersionMajor>
+          <VersionMinor>80</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
+    </Activity>
+  </Activities><Author xsi:type="Application_t">
+    <Name>Garmin Training Center(r)</Name>
+    <Build>
+      <Version>
+        <VersionMajor>3</VersionMajor>
+        <VersionMinor>6</VersionMinor>
+        <BuildMajor>5</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+      <Type>Release</Type>
+      <Time>Aug 17 2011, 11:13:24</Time>
+      <Builder>sqa</Builder>
+    </Build>
+    <LangID>EN</LangID>
+    <PartNumber>006-A0119-00</PartNumber>
+  </Author>
+
+</TrainingCenterDatabase>

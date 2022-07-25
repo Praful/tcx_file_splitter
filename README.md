@@ -46,6 +46,9 @@ This will output files in the `output` folder, named `split_1.tcx`, `split_2,tcx
 
 Before attempting to upload the files to Garmin Connect, check that all the split files are less than 25MB. If any is bigger than 25MB, re-run the program and specify a smaller `activities_per_file` value. Remember to delete the previously created split files.
 
+## Sample input and output
+
+The `data` folder contains a small sample input file with three activities that was exported from Garmin Training Center. The `output` folder contains the output of processing the sample file when the `activities_per_file` to `1`. Three split files were created.
 ## Disclaimer
 
 I wrote this program to solve my problem. I don't know if it will do what you want it to do. Therefore, this program is provided "as-is". Use at your own risk! 
